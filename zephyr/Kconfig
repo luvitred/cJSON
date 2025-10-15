@@ -1,0 +1,3 @@
+
+config CJSON_LIB
+	bool "cJSON library"
